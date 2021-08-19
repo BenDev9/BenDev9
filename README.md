@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev9&show_icons=true&theme=synthwave&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-_Note: these widgets aren't how skilled I am in these languages, its how much code I have publicly of them_
+_Note: these widgets aren't how skilled I am in these languages, its how much code I have publicly of them on GitHub._
 
 ## Tools and Languages
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
