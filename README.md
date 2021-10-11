@@ -6,6 +6,8 @@
 - 😄 Pronouns: He/Him
 - 💬 Ask me anything [here](https://github.com/BenDev9/BenDev9/issues) (Just label it with "question")
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
+
 ## Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenDev9&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
