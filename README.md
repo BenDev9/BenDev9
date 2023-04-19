@@ -1,7 +1,7 @@
 # Hi there, I'm BenDev9!👋
 
 ## About Me
-- 🌱 I’m currently learning C# and Discord.py
+- 🌱 I’m currently learning Machine Learning
 - 🤔 I’m looking for help with new ideas!
 - 😄 Pronouns: He/Him
 - 💬 Ask me anything [here](https://github.com/BenDev9/BenDev9/issues) (Just label it with "question")
