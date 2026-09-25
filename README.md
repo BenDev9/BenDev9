@@ -1,36 +1,16 @@
-# Hi there, I'm BenDev9!👋
+# Hi, I'm Benedek 👋
 
-## About Me
-- 🌱 I’m currently learning Machine Learning
-- 🤔 I’m looking for help with new ideas!
-- 😄 Pronouns: He/Him
-- 💬 Ask me anything [here](https://github.com/BenDev9/BenDev9/issues) (Just label it with "question")
+I'm a Computer Science student at the University of Bristol, working on a variety of projects across tooling, web development, and software that complements sports coaching.
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
+### 🛠️ What I work on
+- Small tools and experimental projects  
+- Web apps like **Rainflow** → https://rainflow.vercel.app  
+- Software to support training, analysis, and coaching workflows
 
-## Stats
+### 📦 Tech I use
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenDev9&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDev9&show_icons=true&theme=synthwave&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-_Note: these widgets aren't how skilled I am in these languages, its how much code I have publicly of them on GitHub._
-
-## Tools and Languages
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  
-<!--
-**BenDev9/BenDev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by — feel free to explore my work!
